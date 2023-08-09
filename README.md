@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Chameesha Rashani</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chameesharash&label=Profile%20views&color=0e75b6&style=flat" alt="chameesharash" /> </p>
 
-- 🌱 I’m currently learning **MERN Stack, .Net, CI/CD & AWS**
+- 🌱 I’m currently learning **Flutter**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
